@@ -1,0 +1,33 @@
+name: Weekly Log Reminder
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
+
+jobs:
+  create-reminder:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Weekly Log — ${today}`,
+              body: [
+                '## Weekly Log Reminder',
+                '',
+                'Update before closing this issue:',
+                '',
+                '- [ ] Add entry to `log/2026/` for this week',
+                '- [ ] Update `reviews/2026.md`',
+                '- [ ] Close any completed goals in `goals/2026/Q2.md`',
+                '- [ ] Update `projects/index.md` if anything changed',
+              ].join('\n'),
+              labels: ['log']
+            });
