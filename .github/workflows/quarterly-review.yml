@@ -1,0 +1,36 @@
+name: Quarterly Goal Review
+
+on:
+  schedule:
+    - cron: '0 14 1 1,4,7,10 *'
+  workflow_dispatch:
+
+jobs:
+  create-review-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const month = new Date().getMonth() + 1;
+            const quarter = Math.ceil(month / 3);
+            const year = new Date().getFullYear();
+            const file = `goals/${year}/Q${quarter}.md`;
+
+            const body = fs.existsSync(file)
+              ? fs.readFileSync(file, 'utf8')
+              : `Goals file \`${file}\` not found.\nCreate it before the quarter starts.`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Q${quarter} ${year} — Goal Review`,
+              body: `## Goals for Q${quarter} ${year}\n\n${body}`,
+              labels: ['goal', 'review']
+            });
