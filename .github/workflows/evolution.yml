@@ -286,5 +286,5 @@ _Stats auto-generated from GitHub API · Last run: {s['updated']}_
 
           git add README.md stats.json log/
           git diff --cached --quiet && echo "no change" && exit 0
-          git commit -m "auto: daily stats $(date -u +%Y-%m-%d) | commits:${{ env.WEEKLY || '?' }}"
+          git commit -m "auto: daily stats $(date -u +%Y-%m-%d)"
           git push
