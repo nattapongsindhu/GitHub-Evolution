@@ -1,21 +1,12 @@
-# GitHub-Evolution
+# 🧬 GitHub Evolution
 
-[![Last Commit](https://img.shields.io/github/last-commit/nattapongsindhu/GitHub-Evolution?style=flat-square)](https://github.com/nattapongsindhu/GitHub-Evolution/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/nattapongsindhu/GitHub-Evolution?style=flat-square)](https://github.com/nattapongsindhu/GitHub-Evolution)
+![Last Update](https://img.shields.io/badge/Updated-pending-blue?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-0-informational?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-0-brightgreen?style=flat-square)
 
-Tracks my coding milestones, weekly progress, and long-term tech goals.
+> Tracking my GitHub development progress, goals, and milestones.
+> Auto-updated daily via GitHub Actions.
 
-## Structure
-log/2026/          # One file per month — daily entries, two bullets max
-goals/2026/        # Q2.md, Q3.md — tied to real activities, not abstract numbers
-projects/
-active/          # One file per project with status and notes
-archived/        # Moved here when done
-reviews/           # Weekly reflection, filled on days off
-.github/workflows/ # Automated reminders and link checks
+---
 
-## Quick Links
-- [April Log](log/2026/04-april.md)
-- [Q2 Goals](goals/2026/Q2.md)
-- [Projects Index](projects/index.md)
-- [Weekly Reviews](reviews/2026.md)
+_First run pending — stats will appear after first workflow execution_
