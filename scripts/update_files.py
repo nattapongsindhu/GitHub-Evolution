@@ -22,7 +22,22 @@ if s["active_repos"]:
 else:
     repo_table = "_No pushes in the last 7 days_"
 
-streak_emoji = "🔥" if s["streak_days"] >= 3 else "📅"
+# repo index table — auto from API
+index_rows = []
+for r in s.get("repo_index", []):
+    name = r["name"]
+    desc = r["description"] if r["description"] else "—"
+    lang = r["language"] if r["language"] else "—"
+    pushed = r["pushed"]
+    index_rows.append(
+        f"| [{name}](https://github.com/nattapongsindhu/{name}) | {desc} | {lang} | {pushed} |"
+    )
+
+repo_index_table = "| Repo | Description | Language | Last Push |\n"
+repo_index_table += "|------|-------------|----------|-----------|\n"
+repo_index_table += "\n".join(index_rows) if index_rows else "| — | — | — | — |"
+
+streak_emoji  = "🔥" if s["streak_days"] >= 3 else "📅"
 updated_badge = s["updated"].replace(" ", "_").replace(":", "%3A")
 
 readme_parts = [
@@ -51,11 +66,8 @@ readme_parts = [
     "## 💻 Top Languages\n",
     lang_lines + "\n",
     "---\n",
-    "## 🗂 Repository Index\n",
-    "| Repo | Purpose |",
-    "|------|---------|",
-    "| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | CI/CD pipeline — LA weather data auto-updated every 6h |",
-    "| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | This repo — auto-tracking GitHub progress daily |\n",
+    "## 🗂 All Repositories\n",
+    repo_index_table + "\n",
     "---\n",
     f"## 🎯 {year} Goals\n",
     "| Area | Goal | Status |",

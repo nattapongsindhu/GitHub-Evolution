@@ -73,20 +73,31 @@ try:
 except Exception:
     streak = 0
 
+# --- repo index (all public, sorted by last push) ---
+repo_index = []
+for r in sorted(public_repos, key=lambda x: x.get("pushed_at", ""), reverse=True):
+    repo_index.append({
+        "name":        r["name"],
+        "description": r.get("description") or "",
+        "language":    r.get("language") or "",
+        "pushed":      r.get("pushed_at", "")[:10]
+    })
+
 latest_repo = public_repos[0] if public_repos else {}
 now         = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
 result = {
-    "updated":       now,
-    "public_repos":  len(public_repos),
-    "total_stars":   total_stars,
-    "total_forks":   total_forks,
-    "top_languages": top_langs,
+    "updated":        now,
+    "public_repos":   len(public_repos),
+    "total_stars":    total_stars,
+    "total_forks":    total_forks,
+    "top_languages":  top_langs,
     "weekly_commits": weekly_commits,
-    "active_repos":  active_repos[:5],
-    "latest_repo":   latest_repo.get("name", ""),
-    "latest_pushed": latest_repo.get("pushed_at", "")[:10],
-    "streak_days":   streak
+    "active_repos":   active_repos[:5],
+    "latest_repo":    latest_repo.get("name", ""),
+    "latest_pushed":  latest_repo.get("pushed_at", "")[:10],
+    "streak_days":    streak,
+    "repo_index":     repo_index
 }
 
 with open("stats.json", "w") as f:
