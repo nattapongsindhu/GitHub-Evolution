@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-04-16_00%3A26_UTC-blue?style=flat-square)
-![Repos](https://img.shields.io/badge/Public_Repos-10-informational?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026-04-16_07%3A28_UTC-blue?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-11-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-0-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-259-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-261-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -14,12 +14,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Public Repositories | 10 |
+| 📁 Public Repositories | 11 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 259 |
+| 📝 Commits This Week | 261 |
 | 📅 Current Streak | 2 days |
-| 🚀 Last Active Repo | [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) |
+| 🚀 Last Active Repo | [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) |
 | 🕐 Last Push | 2026-04-16 |
 
 ---
@@ -28,11 +28,11 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | 24 | 2026-04-16 |
+| [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | 1 | 2026-04-16 |
 | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 100 | 2026-04-16 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | 25 | 2026-04-16 |
 | [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | 34 | 2026-04-15 |
 | [nattapongsindhu.github.io](https://github.com/nattapongsindhu/nattapongsindhu.github.io) | 7 | 2026-04-15 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 21 | 2026-04-15 |
 
 ---
 
@@ -47,8 +47,9 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-16 |
+| [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | Full-stack trip planner — Next.js 14, Supabase, TypeScript | — | 2026-04-16 |
 | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-04-16 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-16 |
 | [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-04-15 |
 | [nattapongsindhu.github.io](https://github.com/nattapongsindhu/nattapongsindhu.github.io) | Personal portfolio and project showcase — IT Cybersecurity student at LACC. | HTML | 2026-04-15 |
 | [it-for-me](https://github.com/nattapongsindhu/it-for-me) | IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily via GitHub Actions | HTML | 2026-04-15 |
@@ -71,4 +72,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-04-16 00:26 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-04-16 07:28 UTC_

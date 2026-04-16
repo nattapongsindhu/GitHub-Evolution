@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 00:26 UTC",
-  "public_repos": 10,
+  "updated": "2026-04-16 07:28 UTC",
+  "public_repos": 11,
   "total_stars": 0,
   "total_forks": 0,
   "top_languages": [
@@ -13,16 +13,21 @@
       4
     ]
   ],
-  "weekly_commits": 259,
+  "weekly_commits": 261,
   "active_repos": [
     {
-      "name": "GitHub-Evolution",
-      "commits": 24,
+      "name": "Trip-Planner",
+      "commits": 1,
       "pushed": "2026-04-16"
     },
     {
       "name": "la-weather-automet",
       "commits": 100,
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "GitHub-Evolution",
+      "commits": 25,
       "pushed": "2026-04-16"
     },
     {
@@ -34,26 +39,27 @@
       "name": "nattapongsindhu.github.io",
       "commits": 7,
       "pushed": "2026-04-15"
-    },
-    {
-      "name": "it-for-me",
-      "commits": 21,
-      "pushed": "2026-04-15"
     }
   ],
-  "latest_repo": "GitHub-Evolution",
+  "latest_repo": "Trip-Planner",
   "latest_pushed": "2026-04-16",
   "streak_days": 2,
   "repo_index": [
     {
-      "name": "GitHub-Evolution",
-      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
-      "language": "Python",
+      "name": "Trip-Planner",
+      "description": "Full-stack trip planner \u2014 Next.js 14, Supabase, TypeScript",
+      "language": "",
       "pushed": "2026-04-16"
     },
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
+      "language": "Python",
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "GitHub-Evolution",
+      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
       "language": "Python",
       "pushed": "2026-04-16"
     },
