@@ -1,47 +1,109 @@
 {
-  "updated": "2026-04-15 09:36 UTC",
-  "public_repos": 9,
+  "updated": "2026-04-16 00:26 UTC",
+  "public_repos": 10,
   "total_stars": 0,
   "total_forks": 0,
   "top_languages": [
     [
-      "HTML",
+      "Python",
       4
     ],
     [
-      "Python",
-      3
+      "HTML",
+      4
     ]
   ],
-  "weekly_commits": 230,
+  "weekly_commits": 259,
   "active_repos": [
     {
       "name": "GitHub-Evolution",
-      "commits": 21,
-      "pushed": "2026-04-15"
+      "commits": 24,
+      "pushed": "2026-04-16"
     },
     {
       "name": "la-weather-automet",
       "commits": 100,
-      "pushed": "2026-04-15"
+      "pushed": "2026-04-16"
     },
     {
       "name": "nattapongsindhu",
-      "commits": 31,
+      "commits": 34,
+      "pushed": "2026-04-15"
+    },
+    {
+      "name": "nattapongsindhu.github.io",
+      "commits": 7,
+      "pushed": "2026-04-15"
+    },
+    {
+      "name": "it-for-me",
+      "commits": 21,
+      "pushed": "2026-04-15"
+    }
+  ],
+  "latest_repo": "GitHub-Evolution",
+  "latest_pushed": "2026-04-16",
+  "streak_days": 2,
+  "repo_index": [
+    {
+      "name": "GitHub-Evolution",
+      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
+      "language": "Python",
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "la-weather-automet",
+      "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
+      "language": "Python",
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "nattapongsindhu",
+      "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
+      "language": "",
+      "pushed": "2026-04-15"
+    },
+    {
+      "name": "nattapongsindhu.github.io",
+      "description": "Personal portfolio and project showcase \u2014 IT Cybersecurity student at LACC.",
+      "language": "HTML",
+      "pushed": "2026-04-15"
+    },
+    {
+      "name": "it-for-me",
+      "description": "IT jobs within 5 miles of ZIP 90029 \u00b7 Auto-updated twice daily via GitHub Actions",
+      "language": "HTML",
       "pushed": "2026-04-15"
     },
     {
       "name": "Unrealized-Loss",
-      "commits": 12,
+      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
+      "language": "Python",
       "pushed": "2026-04-15"
     },
     {
       "name": "Resume",
-      "commits": 28,
+      "description": "Single-page resume \u00b7 HTML/CSS/JS \u00b7 GitHub Pages",
+      "language": "HTML",
       "pushed": "2026-04-14"
+    },
+    {
+      "name": "IT-Cybersecurity-Planner",
+      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
+      "language": "HTML",
+      "pushed": "2026-04-14"
+    },
+    {
+      "name": "LACC-CS101-Python-Labs",
+      "description": "Python lab assignments for CS101 at LACC \u2014 covering fundamentals, data structures, and scripting.",
+      "language": "Python",
+      "pushed": "2026-04-14"
+    },
+    {
+      "name": "IT-Cybersecurity-Roadmap",
+      "description": "Self-directed IT Cybersecurity roadmap: CompTIA A+ \u2192 Network+ \u2192 Security+ \u2192 CySA+ \u2192 PenTest+. Mapped to LACC coursework and TryHackMe labs.",
+      "language": "",
+      "pushed": "2026-04-13"
     }
-  ],
-  "latest_repo": "GitHub-Evolution",
-  "latest_pushed": "2026-04-15",
-  "streak_days": 1
+  ]
 }
