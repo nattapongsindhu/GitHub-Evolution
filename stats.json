@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16 07:28 UTC",
+  "updated": "2026-04-17 07:28 UTC",
   "public_repos": 11,
   "total_stars": 0,
   "total_forks": 0,
@@ -11,49 +11,65 @@
     [
       "HTML",
       4
+    ],
+    [
+      "TypeScript",
+      1
     ]
   ],
-  "weekly_commits": 261,
+  "weekly_commits": 284,
   "active_repos": [
-    {
-      "name": "Trip-Planner",
-      "commits": 1,
-      "pushed": "2026-04-16"
-    },
     {
       "name": "la-weather-automet",
       "commits": 100,
+      "pushed": "2026-04-17"
+    },
+    {
+      "name": "Trip-Planner",
+      "commits": 20,
+      "pushed": "2026-04-17"
+    },
+    {
+      "name": "it-for-me",
+      "commits": 23,
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "Unrealized-Loss",
+      "commits": 14,
       "pushed": "2026-04-16"
     },
     {
       "name": "GitHub-Evolution",
-      "commits": 25,
+      "commits": 26,
       "pushed": "2026-04-16"
-    },
-    {
-      "name": "nattapongsindhu",
-      "commits": 34,
-      "pushed": "2026-04-15"
-    },
-    {
-      "name": "nattapongsindhu.github.io",
-      "commits": 7,
-      "pushed": "2026-04-15"
     }
   ],
-  "latest_repo": "Trip-Planner",
-  "latest_pushed": "2026-04-16",
-  "streak_days": 2,
+  "latest_repo": "la-weather-automet",
+  "latest_pushed": "2026-04-17",
+  "streak_days": 3,
   "repo_index": [
-    {
-      "name": "Trip-Planner",
-      "description": "Full-stack trip planner \u2014 Next.js 14, Supabase, TypeScript",
-      "language": "",
-      "pushed": "2026-04-16"
-    },
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
+      "language": "Python",
+      "pushed": "2026-04-17"
+    },
+    {
+      "name": "Trip-Planner",
+      "description": "Full-stack trip planner \u2014 Next.js 14, Supabase, TypeScript",
+      "language": "TypeScript",
+      "pushed": "2026-04-17"
+    },
+    {
+      "name": "it-for-me",
+      "description": "IT jobs within 5 miles of ZIP 90029 \u00b7 Auto-updated twice daily via GitHub Actions",
+      "language": "HTML",
+      "pushed": "2026-04-16"
+    },
+    {
+      "name": "Unrealized-Loss",
+      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
       "language": "Python",
       "pushed": "2026-04-16"
     },
@@ -73,18 +89,6 @@
       "name": "nattapongsindhu.github.io",
       "description": "Personal portfolio and project showcase \u2014 IT Cybersecurity student at LACC.",
       "language": "HTML",
-      "pushed": "2026-04-15"
-    },
-    {
-      "name": "it-for-me",
-      "description": "IT jobs within 5 miles of ZIP 90029 \u00b7 Auto-updated twice daily via GitHub Actions",
-      "language": "HTML",
-      "pushed": "2026-04-15"
-    },
-    {
-      "name": "Unrealized-Loss",
-      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
-      "language": "Python",
       "pushed": "2026-04-15"
     },
     {
