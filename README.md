@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-04-18_07%3A03_UTC-blue?style=flat-square)
-![Repos](https://img.shields.io/badge/Public_Repos-12-informational?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026-04-19_07%3A15_UTC-blue?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-13-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-0-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-279-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-300-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -14,13 +14,13 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Public Repositories | 12 |
+| 📁 Public Repositories | 13 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 279 |
-| 🔥 Current Streak | 4 days |
+| 📝 Commits This Week | 300 |
+| 🔥 Current Streak | 5 days |
 | 🚀 Last Active Repo | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) |
-| 🕐 Last Push | 2026-04-18 |
+| 🕐 Last Push | 2026-04-19 |
 
 ---
 
@@ -28,11 +28,11 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 100 | 2026-04-18 |
-| [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | 10 | 2026-04-18 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 100 | 2026-04-19 |
+| [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) | 17 | 2026-04-19 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 27 | 2026-04-18 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | 16 | 2026-04-18 |
 | [free-games-tracker](https://github.com/nattapongsindhu/free-games-tracker) | 8 | 2026-04-18 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 25 | 2026-04-17 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | 15 | 2026-04-17 |
 
 ---
 
@@ -40,7 +40,7 @@
 
 - Python: 4 repos
 - HTML: 4 repos
-- TypeScript: 2 repos
+- TypeScript: 3 repos
 
 ---
 
@@ -48,12 +48,13 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-04-18 |
-| [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | Full-stack trip planner — Next.js 14, Supabase, TypeScript | TypeScript | 2026-04-18 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-04-19 |
+| [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) | IT asset tracking system with role-based access, audit logs, and searchable inventory management. | TypeScript | 2026-04-19 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily via GitHub Actions | HTML | 2026-04-18 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-04-18 |
 | [free-games-tracker](https://github.com/nattapongsindhu/free-games-tracker) | Track free game give aways and subscription game drops from Epic, Steam, PlayStation Plus, GG.deals, and IsThereAnyDeal. | TypeScript | 2026-04-18 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily via GitHub Actions | HTML | 2026-04-17 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-04-17 |
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-17 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-18 |
+| [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | Full-stack trip planner — Next.js 14, Supabase, TypeScript | TypeScript | 2026-04-18 |
 | [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-04-15 |
 | [nattapongsindhu.github.io](https://github.com/nattapongsindhu/nattapongsindhu.github.io) | Personal portfolio and project showcase — IT Cybersecurity student at LACC. | HTML | 2026-04-15 |
 | [Resume](https://github.com/nattapongsindhu/Resume) | Single-page resume · HTML/CSS/JS · GitHub Pages | HTML | 2026-04-14 |
@@ -74,4 +75,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-04-18 07:03 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-04-19 07:15 UTC_
