@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 08:02 UTC",
+  "updated": "2026-04-21 07:45 UTC",
   "public_repos": 13,
   "total_stars": 0,
   "total_forks": 0,
@@ -17,61 +17,91 @@
       3
     ]
   ],
-  "weekly_commits": 304,
+  "weekly_commits": 274,
   "active_repos": [
     {
       "name": "la-weather-automet",
       "commits": 100,
-      "pushed": "2026-04-20"
-    },
-    {
-      "name": "it-for-me",
-      "commits": 29,
-      "pushed": "2026-04-19"
+      "pushed": "2026-04-21"
     },
     {
       "name": "Unrealized-Loss",
-      "commits": 17,
-      "pushed": "2026-04-19"
+      "commits": 22,
+      "pushed": "2026-04-21"
     },
     {
-      "name": "GitHub-Evolution",
-      "commits": 29,
-      "pushed": "2026-04-19"
+      "name": "nattapongsindhu",
+      "commits": 17,
+      "pushed": "2026-04-21"
     },
     {
-      "name": "it-asset-tracker",
-      "commits": 17,
-      "pushed": "2026-04-19"
+      "name": "IT-Cybersecurity-Planner",
+      "commits": 2,
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "IT-Cybersecurity-Roadmap",
+      "commits": 1,
+      "pushed": "2026-04-21"
     }
   ],
   "latest_repo": "la-weather-automet",
-  "latest_pushed": "2026-04-20",
-  "streak_days": 5,
+  "latest_pushed": "2026-04-21",
+  "streak_days": 6,
   "repo_index": [
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
       "language": "Python",
-      "pushed": "2026-04-20"
-    },
-    {
-      "name": "it-for-me",
-      "description": "IT jobs within 5 miles of ZIP 90029 \u00b7 Auto-updated twice daily via GitHub Actions",
-      "language": "HTML",
-      "pushed": "2026-04-19"
+      "pushed": "2026-04-21"
     },
     {
       "name": "Unrealized-Loss",
       "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
       "language": "Python",
-      "pushed": "2026-04-19"
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "nattapongsindhu",
+      "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
+      "language": "",
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "IT-Cybersecurity-Planner",
+      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
+      "language": "HTML",
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "IT-Cybersecurity-Roadmap",
+      "description": "Self-directed IT Cybersecurity roadmap: CompTIA A+ \u2192 Network+ \u2192 Security+ \u2192 CySA+ \u2192 PenTest+. Mapped to LACC coursework and TryHackMe labs.",
+      "language": "",
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "LACC-CS101-Python-Labs",
+      "description": "Python lab assignments for CS101 at LACC \u2014 covering fundamentals, conditionals, data structures, loops, and introductory scripting.",
+      "language": "Python",
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "Trip-Planner",
+      "description": "A minimal full-stack trip planner for organizing itineraries, hotels, budgets, and travel notes with Supabase auth and privacy controls.",
+      "language": "TypeScript",
+      "pushed": "2026-04-21"
+    },
+    {
+      "name": "it-for-me",
+      "description": "IT jobs within 5 miles of ZIP 90029 \u00b7 Auto-updated twice daily via GitHub Actions",
+      "language": "HTML",
+      "pushed": "2026-04-20"
     },
     {
       "name": "GitHub-Evolution",
       "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
       "language": "Python",
-      "pushed": "2026-04-19"
+      "pushed": "2026-04-20"
     },
     {
       "name": "it-asset-tracker",
@@ -86,18 +116,6 @@
       "pushed": "2026-04-18"
     },
     {
-      "name": "Trip-Planner",
-      "description": "Full-stack trip planner \u2014 Next.js 14, Supabase, TypeScript",
-      "language": "TypeScript",
-      "pushed": "2026-04-18"
-    },
-    {
-      "name": "nattapongsindhu",
-      "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
-      "language": "",
-      "pushed": "2026-04-15"
-    },
-    {
       "name": "nattapongsindhu.github.io",
       "description": "Personal portfolio and project showcase \u2014 IT Cybersecurity student at LACC.",
       "language": "HTML",
@@ -108,24 +126,6 @@
       "description": "Single-page resume \u00b7 HTML/CSS/JS \u00b7 GitHub Pages",
       "language": "HTML",
       "pushed": "2026-04-14"
-    },
-    {
-      "name": "IT-Cybersecurity-Planner",
-      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
-      "language": "HTML",
-      "pushed": "2026-04-14"
-    },
-    {
-      "name": "LACC-CS101-Python-Labs",
-      "description": "Python lab assignments for CS101 at LACC \u2014 covering fundamentals, data structures, and scripting.",
-      "language": "Python",
-      "pushed": "2026-04-14"
-    },
-    {
-      "name": "IT-Cybersecurity-Roadmap",
-      "description": "Self-directed IT Cybersecurity roadmap: CompTIA A+ \u2192 Network+ \u2192 Security+ \u2192 CySA+ \u2192 PenTest+. Mapped to LACC coursework and TryHackMe labs.",
-      "language": "",
-      "pushed": "2026-04-13"
     }
   ]
 }
