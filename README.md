@@ -1,6 +1,6 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-04-21_07%3A45_UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/nattapongsindhu/Unrealized-Loss?label=last%20updated&color=ef5350)
 ![Repos](https://img.shields.io/badge/Public_Repos-13-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-0-yellow?style=flat-square)
 ![Weekly](https://img.shields.io/badge/Commits_This_Week-274-brightgreen?style=flat-square)
