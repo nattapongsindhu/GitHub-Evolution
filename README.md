@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Updated](https://img.shields.io/github/last-commit/nattapongsindhu/Unrealized-Loss?label=last%20updated&color=ef5350)
+![Last Update](https://img.shields.io/badge/Updated-2026-04-22_07%3A29_UTC-blue?style=flat-square)
 ![Repos](https://img.shields.io/badge/Public_Repos-13-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-0-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-274-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-227-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -17,10 +17,10 @@
 | 📁 Public Repositories | 13 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 274 |
+| 📝 Commits This Week | 227 |
 | 🔥 Current Streak | 6 days |
 | 🚀 Last Active Repo | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) |
-| 🕐 Last Push | 2026-04-21 |
+| 🕐 Last Push | 2026-04-22 |
 
 ---
 
@@ -28,11 +28,11 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 100 | 2026-04-21 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | 22 | 2026-04-21 |
-| [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | 17 | 2026-04-21 |
-| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | 2 | 2026-04-21 |
-| [IT-Cybersecurity-Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) | 1 | 2026-04-21 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 93 | 2026-04-22 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | 17 | 2026-04-21 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 42 | 2026-04-21 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | 11 | 2026-04-21 |
+| [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | 5 | 2026-04-21 |
 
 ---
 
@@ -48,15 +48,15 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-04-21 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-04-22 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-21 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily via GitHub Actions | HTML | 2026-04-21 |
 | [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-04-21 |
 | [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-04-21 |
 | [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-04-21 |
 | [IT-Cybersecurity-Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) | Self-directed IT Cybersecurity roadmap: CompTIA A+ → Network+ → Security+ → CySA+ → PenTest+. Mapped to LACC coursework and TryHackMe labs. | — | 2026-04-21 |
 | [LACC-CS101-Python-Labs](https://github.com/nattapongsindhu/LACC-CS101-Python-Labs) | Python lab assignments for CS101 at LACC — covering fundamentals, conditionals, data structures, loops, and introductory scripting. | Python | 2026-04-21 |
 | [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | A minimal full-stack trip planner for organizing itineraries, hotels, budgets, and travel notes with Supabase auth and privacy controls. | TypeScript | 2026-04-21 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | IT jobs within 5 miles of ZIP 90029 · Auto-updated twice daily via GitHub Actions | HTML | 2026-04-20 |
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-04-20 |
 | [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) | IT asset tracking system with role-based access, audit logs, and searchable inventory management. | TypeScript | 2026-04-19 |
 | [free-games-tracker](https://github.com/nattapongsindhu/free-games-tracker) | Track free game give aways and subscription game drops from Epic, Steam, PlayStation Plus, GG.deals, and IsThereAnyDeal. | TypeScript | 2026-04-18 |
 | [nattapongsindhu.github.io](https://github.com/nattapongsindhu/nattapongsindhu.github.io) | Personal portfolio and project showcase — IT Cybersecurity student at LACC. | HTML | 2026-04-15 |
@@ -75,4 +75,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-04-21 07:45 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-04-22 07:29 UTC_
