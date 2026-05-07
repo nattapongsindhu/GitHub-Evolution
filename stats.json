@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-05 08:05 UTC",
-  "public_repos": 16,
+  "updated": "2026-05-07 08:30 UTC",
+  "public_repos": 17,
   "total_stars": 0,
   "total_forks": 0,
   "top_languages": [
     [
       "TypeScript",
-      6
+      7
     ],
     [
       "Python",
@@ -17,67 +17,79 @@
       4
     ]
   ],
-  "weekly_commits": 116,
+  "weekly_commits": 120,
   "active_repos": [
     {
       "name": "la-weather-automet",
-      "commits": 29,
-      "pushed": "2026-05-05"
+      "commits": 28,
+      "pushed": "2026-05-07"
     },
     {
       "name": "it-for-me",
-      "commits": 33,
-      "pushed": "2026-05-05"
+      "commits": 14,
+      "pushed": "2026-05-07"
     },
     {
       "name": "grants-for-me",
-      "commits": 12,
-      "pushed": "2026-05-05"
+      "commits": 15,
+      "pushed": "2026-05-07"
     },
     {
-      "name": "Unrealized-Loss",
-      "commits": 7,
-      "pushed": "2026-05-04"
+      "name": "called-la-home",
+      "commits": 9,
+      "pushed": "2026-05-07"
     },
     {
-      "name": "GitHub-Evolution",
-      "commits": 7,
-      "pushed": "2026-05-04"
+      "name": "ai-content-engine",
+      "commits": 33,
+      "pushed": "2026-05-06"
     }
   ],
   "latest_repo": "la-weather-automet",
-  "latest_pushed": "2026-05-05",
-  "streak_days": 1,
+  "latest_pushed": "2026-05-07",
+  "streak_days": 3,
   "repo_index": [
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
       "language": "Python",
-      "pushed": "2026-05-05"
+      "pushed": "2026-05-07"
     },
     {
       "name": "it-for-me",
       "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
       "language": "TypeScript",
-      "pushed": "2026-05-05"
+      "pushed": "2026-05-07"
     },
     {
       "name": "grants-for-me",
       "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
       "language": "TypeScript",
-      "pushed": "2026-05-05"
+      "pushed": "2026-05-07"
+    },
+    {
+      "name": "called-la-home",
+      "description": "A production-ready PWA for discovering housing assistance programs within a 10-mile radius of LA 90029, featuring a local eligibility engine and Google Maps integration.",
+      "language": "TypeScript",
+      "pushed": "2026-05-07"
+    },
+    {
+      "name": "ai-content-engine",
+      "description": "A full-stack automated content pipeline powered by Next.js, FastAPI, and Generative AI (Gemini), featuring FFmpeg-based video rendering and TTS integration.",
+      "language": "TypeScript",
+      "pushed": "2026-05-06"
     },
     {
       "name": "Unrealized-Loss",
       "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
       "language": "Python",
-      "pushed": "2026-05-04"
+      "pushed": "2026-05-06"
     },
     {
       "name": "GitHub-Evolution",
       "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
       "language": "Python",
-      "pushed": "2026-05-04"
+      "pushed": "2026-05-05"
     },
     {
       "name": "Resume",
@@ -102,12 +114,6 @@
       "description": "Self-directed IT Cybersecurity roadmap: CompTIA A+ \u2192 Network+ \u2192 Security+ \u2192 CySA+ \u2192 PenTest+. Mapped to LACC coursework and TryHackMe labs.",
       "language": "",
       "pushed": "2026-05-01"
-    },
-    {
-      "name": "called-la-home",
-      "description": "A production-ready PWA for discovering housing assistance programs within a 10-mile radius of LA 90029, featuring a local eligibility engine and Google Maps integration.",
-      "language": "TypeScript",
-      "pushed": "2026-04-30"
     },
     {
       "name": "network-configuration-guide",
