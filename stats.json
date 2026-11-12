@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 13:30 UTC",
+  "updated": "2026-11-12 14:34 UTC",
   "public_repos": 20,
   "total_stars": 2,
   "total_forks": 0,
@@ -17,43 +17,61 @@
       4
     ]
   ],
-  "weekly_commits": 111,
+  "weekly_commits": 150,
   "active_repos": [
     {
       "name": "la-weather-automet",
       "commits": 19,
-      "pushed": "2026-11-11"
-    },
-    {
-      "name": "TryHackMe-IT-Cybersecurity-Portfolio",
-      "commits": 12,
-      "pushed": "2026-11-11"
-    },
-    {
-      "name": "LetsDefend-IT-Cybersecurity-Portfolio",
-      "commits": 11,
-      "pushed": "2026-11-11"
+      "pushed": "2026-11-12"
     },
     {
       "name": "it-for-me",
       "commits": 14,
-      "pushed": "2026-11-11"
+      "pushed": "2026-11-12"
     },
     {
       "name": "grants-for-me",
       "commits": 14,
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "IT-Cybersecurity-Planner",
+      "commits": 21,
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "TryHackMe-IT-Cybersecurity-Portfolio",
+      "commits": 21,
       "pushed": "2026-11-11"
     }
   ],
   "latest_repo": "la-weather-automet",
-  "latest_pushed": "2026-11-11",
-  "streak_days": 0,
+  "latest_pushed": "2026-11-12",
+  "streak_days": 1,
   "repo_index": [
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
       "language": "Python",
-      "pushed": "2026-11-11"
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "it-for-me",
+      "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
+      "language": "TypeScript",
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "grants-for-me",
+      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
+      "language": "TypeScript",
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "IT-Cybersecurity-Planner",
+      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
+      "language": "HTML",
+      "pushed": "2026-11-12"
     },
     {
       "name": "TryHackMe-IT-Cybersecurity-Portfolio",
@@ -68,34 +86,22 @@
       "pushed": "2026-11-11"
     },
     {
-      "name": "it-for-me",
-      "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
-      "language": "TypeScript",
-      "pushed": "2026-11-11"
-    },
-    {
-      "name": "grants-for-me",
-      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
-      "language": "TypeScript",
+      "name": "nattapongsindhu",
+      "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
+      "language": "",
       "pushed": "2026-11-11"
     },
     {
       "name": "Unrealized-Loss",
       "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
       "language": "Python",
-      "pushed": "2026-11-10"
+      "pushed": "2026-11-11"
     },
     {
       "name": "GitHub-Evolution",
       "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
       "language": "Python",
-      "pushed": "2026-11-10"
-    },
-    {
-      "name": "nattapongsindhu",
-      "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
-      "language": "",
-      "pushed": "2026-11-06"
+      "pushed": "2026-11-11"
     },
     {
       "name": "student-star",
@@ -156,12 +162,6 @@
       "description": "IT asset tracking system with role-based access, audit logs, and searchable inventory management.",
       "language": "TypeScript",
       "pushed": "2026-04-26"
-    },
-    {
-      "name": "IT-Cybersecurity-Planner",
-      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
-      "language": "HTML",
-      "pushed": "2026-04-21"
     },
     {
       "name": "Trip-Planner",

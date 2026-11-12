@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-11-11_13%3A30_UTC-blue?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026-11-12_14%3A34_UTC-blue?style=flat-square)
 ![Repos](https://img.shields.io/badge/Public_Repos-20-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-2-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-111-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-150-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -17,10 +17,10 @@
 | 📁 Public Repositories | 20 |
 | ⭐ Total Stars | 2 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 111 |
-| 📅 Current Streak | 0 days |
+| 📝 Commits This Week | 150 |
+| 📅 Current Streak | 1 day |
 | 🚀 Last Active Repo | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) |
-| 🕐 Last Push | 2026-11-11 |
+| 🕐 Last Push | 2026-11-12 |
 
 ---
 
@@ -28,11 +28,11 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 19 | 2026-11-11 |
-| [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | 12 | 2026-11-11 |
-| [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) | 11 | 2026-11-11 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-11 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 14 | 2026-11-11 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 19 | 2026-11-12 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-12 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 14 | 2026-11-12 |
+| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | 21 | 2026-11-12 |
+| [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | 21 | 2026-11-11 |
 
 ---
 
@@ -48,14 +48,15 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-11-11 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-11-12 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-12 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-12 |
+| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-11-12 |
 | [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | English study portfolio: TryHackMe Pre-Security + SOC Level 1, six investigations, two certificates | Python | 2026-11-11 |
 | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) | Public study portfolio: LetsDefend SOC Analyst Learning Path, concept notes, case evidence summaries and a Python log analyzer | Python | 2026-11-11 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-11 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-11 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-10 |
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-10 |
-| [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-11-06 |
+| [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-11-11 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-11 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-11 |
 | [student-star](https://github.com/nattapongsindhu/student-star) | Personal academic operations dashboard for Canvas, Supabase, and Vercel | TypeScript | 2026-11-06 |
 | [la-car-auctions](https://github.com/nattapongsindhu/la-car-auctions) | Intelligent Next.js vehicle scraper & 3-state risk assessment engine for OPG Los Angeles auction data. Features automated California DMV clipboard integration and commercial year-range matrices to optimize real-time vehicle vetting. | TypeScript | 2026-07-31 |
 | [called-la-home](https://github.com/nattapongsindhu/called-la-home) | A production-ready PWA for discovering housing assistance programs within a 10-mile radius of LA 90029, featuring a local eligibility engine and Google Maps integration. | TypeScript | 2026-07-16 |
@@ -66,7 +67,6 @@
 | [IT-Cybersecurity-Roadmap](https://github.com/nattapongsindhu/IT-Cybersecurity-Roadmap) | Self-directed IT Cybersecurity roadmap: CompTIA A+ → Network+ → Security+ → CySA+ → PenTest+. Mapped to LACC coursework and TryHackMe labs. | — | 2026-05-01 |
 | [network-configuration-guide](https://github.com/nattapongsindhu/network-configuration-guide) | Interactive Network Topology & Configuration Manual built with Next.js and Mermaid.js. | HTML | 2026-04-29 |
 | [it-asset-tracker](https://github.com/nattapongsindhu/it-asset-tracker) | IT asset tracking system with role-based access, audit logs, and searchable inventory management. | TypeScript | 2026-04-26 |
-| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-04-21 |
 | [Trip-Planner](https://github.com/nattapongsindhu/Trip-Planner) | A minimal full-stack trip planner for organizing itineraries, hotels, budgets, and travel notes with Supabase auth and privacy controls. | TypeScript | 2026-04-21 |
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-11-11 13:30 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-11-12 14:34 UTC_
