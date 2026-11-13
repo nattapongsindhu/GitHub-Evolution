@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-12 14:34 UTC",
-  "public_repos": 20,
+  "updated": "2026-11-13 13:53 UTC",
+  "public_repos": 21,
   "total_stars": 2,
   "total_forks": 0,
   "top_languages": [
     [
       "TypeScript",
-      8
+      9
     ],
     [
       "Python",
@@ -17,38 +17,62 @@
       4
     ]
   ],
-  "weekly_commits": 150,
+  "weekly_commits": 126,
   "active_repos": [
-    {
-      "name": "la-weather-automet",
-      "commits": 19,
-      "pushed": "2026-11-12"
-    },
     {
       "name": "it-for-me",
       "commits": 14,
-      "pushed": "2026-11-12"
+      "pushed": "2026-11-13"
     },
     {
       "name": "grants-for-me",
-      "commits": 14,
-      "pushed": "2026-11-12"
+      "commits": 15,
+      "pushed": "2026-11-13"
     },
     {
       "name": "IT-Cybersecurity-Planner",
-      "commits": 21,
-      "pushed": "2026-11-12"
+      "commits": 24,
+      "pushed": "2026-11-13"
     },
     {
-      "name": "TryHackMe-IT-Cybersecurity-Portfolio",
-      "commits": 21,
-      "pushed": "2026-11-11"
+      "name": "master-mine",
+      "commits": 1,
+      "pushed": "2026-11-13"
+    },
+    {
+      "name": "la-weather-automet",
+      "commits": 17,
+      "pushed": "2026-11-12"
     }
   ],
-  "latest_repo": "la-weather-automet",
-  "latest_pushed": "2026-11-12",
-  "streak_days": 1,
+  "latest_repo": "it-for-me",
+  "latest_pushed": "2026-11-13",
+  "streak_days": 2,
   "repo_index": [
+    {
+      "name": "it-for-me",
+      "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
+      "language": "TypeScript",
+      "pushed": "2026-11-13"
+    },
+    {
+      "name": "grants-for-me",
+      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
+      "language": "TypeScript",
+      "pushed": "2026-11-13"
+    },
+    {
+      "name": "IT-Cybersecurity-Planner",
+      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
+      "language": "HTML",
+      "pushed": "2026-11-13"
+    },
+    {
+      "name": "master-mine",
+      "description": "Evidence-aware US IT master's degree finder - compare tuition, ranking, format, and funding. Next.js static export deployed on Vercel.",
+      "language": "TypeScript",
+      "pushed": "2026-11-13"
+    },
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
@@ -56,21 +80,15 @@
       "pushed": "2026-11-12"
     },
     {
-      "name": "it-for-me",
-      "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
-      "language": "TypeScript",
+      "name": "Unrealized-Loss",
+      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
+      "language": "Python",
       "pushed": "2026-11-12"
     },
     {
-      "name": "grants-for-me",
-      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
-      "language": "TypeScript",
-      "pushed": "2026-11-12"
-    },
-    {
-      "name": "IT-Cybersecurity-Planner",
-      "description": "Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS.",
-      "language": "HTML",
+      "name": "GitHub-Evolution",
+      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
+      "language": "Python",
       "pushed": "2026-11-12"
     },
     {
@@ -89,18 +107,6 @@
       "name": "nattapongsindhu",
       "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
       "language": "",
-      "pushed": "2026-11-11"
-    },
-    {
-      "name": "Unrealized-Loss",
-      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
-      "language": "Python",
-      "pushed": "2026-11-11"
-    },
-    {
-      "name": "GitHub-Evolution",
-      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
-      "language": "Python",
       "pushed": "2026-11-11"
     },
     {

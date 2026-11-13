@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-11-12_14%3A34_UTC-blue?style=flat-square)
-![Repos](https://img.shields.io/badge/Public_Repos-20-informational?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026-11-13_13%3A53_UTC-blue?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-21-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-2-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-150-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-126-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -14,13 +14,13 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Public Repositories | 20 |
+| 📁 Public Repositories | 21 |
 | ⭐ Total Stars | 2 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 150 |
-| 📅 Current Streak | 1 day |
-| 🚀 Last Active Repo | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) |
-| 🕐 Last Push | 2026-11-12 |
+| 📝 Commits This Week | 126 |
+| 📅 Current Streak | 2 days |
+| 🚀 Last Active Repo | [it-for-me](https://github.com/nattapongsindhu/it-for-me) |
+| 🕐 Last Push | 2026-11-13 |
 
 ---
 
@@ -28,17 +28,17 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 19 | 2026-11-12 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-12 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 14 | 2026-11-12 |
-| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | 21 | 2026-11-12 |
-| [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | 21 | 2026-11-11 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-13 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 15 | 2026-11-13 |
+| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | 24 | 2026-11-13 |
+| [master-mine](https://github.com/nattapongsindhu/master-mine) | 1 | 2026-11-13 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 17 | 2026-11-12 |
 
 ---
 
 ## 💻 Top Languages
 
-- TypeScript: 8 repos
+- TypeScript: 9 repos
 - Python: 6 repos
 - HTML: 4 repos
 
@@ -48,15 +48,16 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-13 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-13 |
+| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-11-13 |
+| [master-mine](https://github.com/nattapongsindhu/master-mine) | Evidence-aware US IT master's degree finder - compare tuition, ranking, format, and funding. Next.js static export deployed on Vercel. | TypeScript | 2026-11-13 |
 | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-11-12 |
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-12 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-12 |
-| [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-11-12 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-12 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-12 |
 | [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | English study portfolio: TryHackMe Pre-Security + SOC Level 1, six investigations, two certificates | Python | 2026-11-11 |
 | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) | Public study portfolio: LetsDefend SOC Analyst Learning Path, concept notes, case evidence summaries and a Python log analyzer | Python | 2026-11-11 |
 | [nattapongsindhu](https://github.com/nattapongsindhu/nattapongsindhu) | Maintenance Mechanic @USPS · IT Cybersecurity Student @LACC · Python Learner | — | 2026-11-11 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-11 |
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-11 |
 | [student-star](https://github.com/nattapongsindhu/student-star) | Personal academic operations dashboard for Canvas, Supabase, and Vercel | TypeScript | 2026-11-06 |
 | [la-car-auctions](https://github.com/nattapongsindhu/la-car-auctions) | Intelligent Next.js vehicle scraper & 3-state risk assessment engine for OPG Los Angeles auction data. Features automated California DMV clipboard integration and commercial year-range matrices to optimize real-time vehicle vetting. | TypeScript | 2026-07-31 |
 | [called-la-home](https://github.com/nattapongsindhu/called-la-home) | A production-ready PWA for discovering housing assistance programs within a 10-mile radius of LA 90029, featuring a local eligibility engine and Google Maps integration. | TypeScript | 2026-07-16 |
@@ -82,4 +83,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-11-12 14:34 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-11-13 13:53 UTC_
