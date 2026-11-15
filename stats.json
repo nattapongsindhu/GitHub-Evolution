@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14 12:55 UTC",
-  "public_repos": 21,
+  "updated": "2026-11-15 13:24 UTC",
+  "public_repos": 22,
   "total_stars": 2,
   "total_forks": 0,
   "top_languages": [
     [
       "TypeScript",
-      9
+      10
     ],
     [
       "Python",
@@ -17,72 +17,84 @@
       4
     ]
   ],
-  "weekly_commits": 132,
+  "weekly_commits": 159,
   "active_repos": [
     {
       "name": "la-weather-automet",
       "commits": 17,
-      "pushed": "2026-11-14"
-    },
-    {
-      "name": "grants-for-me",
-      "commits": 15,
-      "pushed": "2026-11-14"
+      "pushed": "2026-11-15"
     },
     {
       "name": "it-for-me",
       "commits": 14,
-      "pushed": "2026-11-14"
+      "pushed": "2026-11-15"
     },
     {
-      "name": "master-mine",
-      "commits": 7,
-      "pushed": "2026-11-13"
+      "name": "grants-for-me",
+      "commits": 15,
+      "pushed": "2026-11-15"
     },
     {
-      "name": "Unrealized-Loss",
-      "commits": 7,
-      "pushed": "2026-11-13"
+      "name": "student-star",
+      "commits": 1,
+      "pushed": "2026-11-15"
+    },
+    {
+      "name": "student-sky",
+      "commits": 26,
+      "pushed": "2026-11-15"
     }
   ],
   "latest_repo": "la-weather-automet",
-  "latest_pushed": "2026-11-14",
-  "streak_days": 3,
+  "latest_pushed": "2026-11-15",
+  "streak_days": 0,
   "repo_index": [
     {
       "name": "la-weather-automet",
       "description": "Zero-cost weather data pipeline \u2014 GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages",
       "language": "Python",
-      "pushed": "2026-11-14"
-    },
-    {
-      "name": "grants-for-me",
-      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
-      "language": "TypeScript",
-      "pushed": "2026-11-14"
+      "pushed": "2026-11-15"
     },
     {
       "name": "it-for-me",
       "description": "\ud83c\udfe5 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities.",
       "language": "TypeScript",
+      "pushed": "2026-11-15"
+    },
+    {
+      "name": "grants-for-me",
+      "description": "A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python.",
+      "language": "TypeScript",
+      "pushed": "2026-11-15"
+    },
+    {
+      "name": "student-star",
+      "description": "Personal academic operations dashboard for Canvas, Supabase, and Vercel",
+      "language": "TypeScript",
+      "pushed": "2026-11-15"
+    },
+    {
+      "name": "student-sky",
+      "description": "",
+      "language": "TypeScript",
+      "pushed": "2026-11-15"
+    },
+    {
+      "name": "Unrealized-Loss",
+      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
+      "language": "Python",
+      "pushed": "2026-11-14"
+    },
+    {
+      "name": "GitHub-Evolution",
+      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
+      "language": "Python",
       "pushed": "2026-11-14"
     },
     {
       "name": "master-mine",
       "description": "Evidence-aware US IT master's degree finder - compare tuition, ranking, format, and funding. Next.js static export deployed on Vercel.",
       "language": "TypeScript",
-      "pushed": "2026-11-13"
-    },
-    {
-      "name": "Unrealized-Loss",
-      "description": "Stamp. Bitcoin. Her Heart. \u2014 A data project tracking three assets over the same relationship timeline.",
-      "language": "Python",
-      "pushed": "2026-11-13"
-    },
-    {
-      "name": "GitHub-Evolution",
-      "description": "Tracking and documenting my GitHub development progress, goals, and milestones.",
-      "language": "Python",
       "pushed": "2026-11-13"
     },
     {
@@ -108,12 +120,6 @@
       "description": "Maintenance Mechanic @USPS \u00b7 IT Cybersecurity Student @LACC \u00b7 Python Learner",
       "language": "",
       "pushed": "2026-11-11"
-    },
-    {
-      "name": "student-star",
-      "description": "Personal academic operations dashboard for Canvas, Supabase, and Vercel",
-      "language": "TypeScript",
-      "pushed": "2026-11-06"
     },
     {
       "name": "la-car-auctions",
