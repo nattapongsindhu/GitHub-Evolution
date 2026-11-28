@@ -1,9 +1,9 @@
 # 🧬 GitHub Evolution
 
-![Last Update](https://img.shields.io/badge/Updated-2026-11-27_16%3A04_UTC-blue?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026-11-28_14%3A59_UTC-blue?style=flat-square)
 ![Repos](https://img.shields.io/badge/Public_Repos-23-informational?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total_Stars-2-yellow?style=flat-square)
-![Weekly](https://img.shields.io/badge/Commits_This_Week-83-brightgreen?style=flat-square)
+![Weekly](https://img.shields.io/badge/Commits_This_Week-73-brightgreen?style=flat-square)
 
 > Tracking my GitHub development progress, goals, and milestones.
 > Auto-updated daily via GitHub Actions.
@@ -17,10 +17,10 @@
 | 📁 Public Repositories | 23 |
 | ⭐ Total Stars | 2 |
 | 🍴 Total Forks | 0 |
-| 📝 Commits This Week | 83 |
-| 📅 Current Streak | 1 day |
-| 🚀 Last Active Repo | [it-for-me](https://github.com/nattapongsindhu/it-for-me) |
-| 🕐 Last Push | 2026-11-27 |
+| 📝 Commits This Week | 73 |
+| 📅 Current Streak | 2 days |
+| 🚀 Last Active Repo | [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) |
+| 🕐 Last Push | 2026-11-28 |
 
 ---
 
@@ -28,11 +28,11 @@
 
 | Repository | Commits (7d) | Last Push |
 |------------|-------------|----------|
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-27 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 14 | 2026-11-27 |
-| [thailand-football](https://github.com/nattapongsindhu/thailand-football) | 16 | 2026-11-27 |
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 12 | 2026-11-27 |
-| [student-star](https://github.com/nattapongsindhu/student-star) | 13 | 2026-11-26 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | 12 | 2026-11-28 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 14 | 2026-11-28 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | 14 | 2026-11-28 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | 7 | 2026-11-27 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | 6 | 2026-11-27 |
 
 ---
 
@@ -49,14 +49,14 @@
 
 | Repo | Description | Language | Last Push |
 |------|-------------|----------|-----------|
-| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-27 |
-| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-27 |
+| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-11-28 |
+| [it-for-me](https://github.com/nattapongsindhu/it-for-me) | 🏥 Automated Healthcare IT & Biomedical job tracker built with Next.js, Supabase, and Python. Features a real-time dashboard for tracking clinical technology and tech support opportunities. | TypeScript | 2026-11-28 |
+| [grants-for-me](https://github.com/nattapongsindhu/grants-for-me) | A minimal, automated grant discovery web app focused on free workforce training opportunities in California. Built with Next.js and Python. | TypeScript | 2026-11-28 |
+| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-27 |
+| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-27 |
 | [thailand-football](https://github.com/nattapongsindhu/thailand-football) | Public directory of Thai football competitions, teams, seasons, and verified roster sources. | Rust | 2026-11-27 |
-| [la-weather-automet](https://github.com/nattapongsindhu/la-weather-automet) | Zero-cost weather data pipeline — GitHub Actions fetches LA weather every 6h, auto-commits analysis and SVG chart to GitHub Pages | Python | 2026-11-27 |
 | [student-star](https://github.com/nattapongsindhu/student-star) | Personal Academic Command Center & LACCD Cross-Enrollment Planner | Zero Missed Assignments -> Protect an A in Every Class (18 Units - LACC Cybersecurity) | TypeScript | 2026-11-26 |
 | [student-sky](https://github.com/nattapongsindhu/student-sky) | ✈️ Glendale Community College (GCC) Aviation & Pilot Training Academic Operations Dashboard · Next.js 16, Supabase, Canvas LMS & Vercel Cron | TypeScript | 2026-11-26 |
-| [Unrealized-Loss](https://github.com/nattapongsindhu/Unrealized-Loss) | Stamp. Bitcoin. Her Heart. — A data project tracking three assets over the same relationship timeline. | Python | 2026-11-26 |
-| [GitHub-Evolution](https://github.com/nattapongsindhu/GitHub-Evolution) | Tracking and documenting my GitHub development progress, goals, and milestones. | Python | 2026-11-26 |
 | [master-mine](https://github.com/nattapongsindhu/master-mine) | Evidence-aware US IT master's degree finder - compare tuition, ranking, format, and funding. Next.js static export deployed on Vercel. | TypeScript | 2026-11-13 |
 | [IT-Cybersecurity-Planner](https://github.com/nattapongsindhu/IT-Cybersecurity-Planner) | Interactive degree planner web app for IT Cybersecurity pathway at LACC. Built with HTML/CSS/JS. | HTML | 2026-11-13 |
 | [TryHackMe-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/TryHackMe-IT-Cybersecurity-Portfolio) | English study portfolio: TryHackMe Pre-Security + SOC Level 1, six investigations, two certificates | Python | 2026-11-11 |
@@ -86,4 +86,4 @@
 
 ---
 
-_Stats auto-generated from GitHub API · Last run: 2026-11-27 16:04 UTC_
+_Stats auto-generated from GitHub API · Last run: 2026-11-28 14:59 UTC_
